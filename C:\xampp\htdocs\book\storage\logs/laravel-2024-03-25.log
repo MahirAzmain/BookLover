@@ -1,0 +1,646 @@
+[2024-03-25 21:46:04] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:46:34] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:55:28] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:55:42] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:55:42] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:55:42] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:55:42] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:55:42] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:55:42] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:55:42] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:55:42] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:55:42] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:55:42] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [Illuminate\Contracts\Auth\Access\Gate] is not instantiable. in /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:958
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(796): Illuminate\Container\Container->notInstantiable('Illuminate\\Cont...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('Illuminate\\Cont...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/ {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Target [Illuminate\\Contracts\\Auth\\Access\\Gate] is not instantiable. in /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:958
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(796): Illuminate\\Container\\Container->notInstantiable('Illuminate\\\\Cont...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\\Container\\Container->build('Illuminate\\\\Cont...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\\Container\\Container->resolve('Illuminate\\\\Cont...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/ at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:958)
+[stacktrace]
+#0 {main}
+"} 
+[2024-03-25 21:55:42] local.ERROR: Uncaught ReflectionException: Class blade.compiler does not exist in /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('blade.compiler')
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('blade.compiler')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('blade.compiler', A {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught ReflectionException: Class blade.compiler does not exist in /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('blade.compiler')
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\\Container\\Container->build('blade.compiler')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\\Container\\Container->resolve('blade.compiler', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\\Container\\Container->make('blade.compiler', A at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:790)
+[stacktrace]
+#0 {main}
+"} 
+[2024-03-25 21:55:42] local.ERROR: Uncaught ReflectionException: Class view does not exist in /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21 {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught ReflectionException: Class view does not exist in /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\\Container\\Container->build('view')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\\Container\\Container->resolve('view', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\\Container\\Container->make('view', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21 at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:790)
+[stacktrace]
+#0 {main}
+"} 
+[2024-03-25 21:55:42] local.ERROR: Uncaught ReflectionException: Class translator does not exist in /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('translator')
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('translator')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('translator', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('translator', Array)
+#4 /Applicatio {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught ReflectionException: Class translator does not exist in /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('translator')
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\\Container\\Container->build('translator')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\\Container\\Container->resolve('translator', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\\Container\\Container->make('translator', Array)
+#4 /Applicatio at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:790)
+[stacktrace]
+#0 {main}
+"} 
+[2024-03-25 21:57:01] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:57:01] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:57:01] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:57:01] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:57:01] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:57:01] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:57:01] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:57:01] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:57:01] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:57:01] local.ERROR: Uncaught ReflectionException: Class blade.compiler does not exist in /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('blade.compiler')
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('blade.compiler')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('blade.compiler', A {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught ReflectionException: Class blade.compiler does not exist in /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('blade.compiler')
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\\Container\\Container->build('blade.compiler')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\\Container\\Container->resolve('blade.compiler', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\\Container\\Container->make('blade.compiler', A at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:790)
+[stacktrace]
+#0 {main}
+"} 
+[2024-03-25 21:57:01] local.ERROR: Uncaught ReflectionException: Class translator does not exist in /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('translator')
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('translator')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('translator', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('translator', Array)
+#4 /Applicatio {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught ReflectionException: Class translator does not exist in /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('translator')
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\\Container\\Container->build('translator')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\\Container\\Container->resolve('translator', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\\Container\\Container->make('translator', Array)
+#4 /Applicatio at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:790)
+[stacktrace]
+#0 {main}
+"} 
+[2024-03-25 21:57:01] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [Illuminate\Contracts\Auth\Access\Gate] is not instantiable. in /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:958
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(796): Illuminate\Container\Container->notInstantiable('Illuminate\\Cont...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('Illuminate\\Cont...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/ {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Target [Illuminate\\Contracts\\Auth\\Access\\Gate] is not instantiable. in /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:958
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(796): Illuminate\\Container\\Container->notInstantiable('Illuminate\\\\Cont...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\\Container\\Container->build('Illuminate\\\\Cont...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\\Container\\Container->resolve('Illuminate\\\\Cont...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/ at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:958)
+[stacktrace]
+#0 {main}
+"} 
+[2024-03-25 21:57:01] local.ERROR: Uncaught ReflectionException: Class view does not exist in /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21 {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught ReflectionException: Class view does not exist in /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\\Container\\Container->build('view')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\\Container\\Container->resolve('view', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\\Container\\Container->make('view', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21 at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:790)
+[stacktrace]
+#0 {main}
+"} 
+[2024-03-25 21:58:01] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:58:01] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:58:01] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [Illuminate\Contracts\Auth\Access\Gate] is not instantiable. in /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:958
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(796): Illuminate\Container\Container->notInstantiable('Illuminate\\Cont...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('Illuminate\\Cont...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/ {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Target [Illuminate\\Contracts\\Auth\\Access\\Gate] is not instantiable. in /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:958
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(796): Illuminate\\Container\\Container->notInstantiable('Illuminate\\\\Cont...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\\Container\\Container->build('Illuminate\\\\Cont...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\\Container\\Container->resolve('Illuminate\\\\Cont...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/ at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:958)
+[stacktrace]
+#0 {main}
+"} 
+[2024-03-25 21:59:01] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:59:01] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 21:59:01] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [Illuminate\Contracts\Auth\Access\Gate] is not instantiable. in /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:958
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(796): Illuminate\Container\Container->notInstantiable('Illuminate\\Cont...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('Illuminate\\Cont...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/ {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Target [Illuminate\\Contracts\\Auth\\Access\\Gate] is not instantiable. in /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:958
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(796): Illuminate\\Container\\Container->notInstantiable('Illuminate\\\\Cont...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\\Container\\Container->build('Illuminate\\\\Cont...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\\Container\\Container->resolve('Illuminate\\\\Cont...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/ at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:958)
+[stacktrace]
+#0 {main}
+"} 
+[2024-03-25 21:59:53] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 22:00:01] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 22:00:01] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 22:00:01] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [Illuminate\Contracts\Auth\Access\Gate] is not instantiable. in /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:958
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(796): Illuminate\Container\Container->notInstantiable('Illuminate\\Cont...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('Illuminate\\Cont...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/ {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Target [Illuminate\\Contracts\\Auth\\Access\\Gate] is not instantiable. in /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:958
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(796): Illuminate\\Container\\Container->notInstantiable('Illuminate\\\\Cont...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\\Container\\Container->build('Illuminate\\\\Cont...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\\Container\\Container->resolve('Illuminate\\\\Cont...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/ at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:958)
+[stacktrace]
+#0 {main}
+"} 
+[2024-03-25 22:01:01] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 22:01:01] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/X...', 122, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2024-03-25 22:01:01] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [Illuminate\Contracts\Auth\Access\Gate] is not instantiable. in /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:958
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(796): Illuminate\Container\Container->notInstantiable('Illuminate\\Cont...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('Illuminate\\Cont...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/ {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Target [Illuminate\\Contracts\\Auth\\Access\\Gate] is not instantiable. in /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:958
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(796): Illuminate\\Container\\Container->notInstantiable('Illuminate\\\\Cont...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\\Container\\Container->build('Illuminate\\\\Cont...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\\Container\\Container->resolve('Illuminate\\\\Cont...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/ at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php:958)
+[stacktrace]
+#0 {main}
+"} 
+[2024-03-25 22:02:37] local.ERROR: SQLSTATE[HY000] [1049] Unknown database 'books' (SQL: select * from information_schema.tables where table_schema = books and table_name = migrations and table_type = 'BASE TABLE') {"exception":"[object] (Illuminate\\Database\\QueryException(code: 1049): SQLSTATE[HY000] [1049] Unknown database 'books' (SQL: select * from information_schema.tables where table_schema = books and table_name = migrations and table_type = 'BASE TABLE') at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Database/Connection.php:664, PDOException(code: 1049): SQLSTATE[HY000] [1049] Unknown database 'books' at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Database/Connection.php(624): Illuminate\\Database\\Connection->runQueryCallback('select * from i...', Array, Object(Closure))
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Database/Connection.php(333): Illuminate\\Database\\Connection->run('select * from i...', Array, Object(Closure))
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php(18): Illuminate\\Database\\Connection->select('select * from i...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Database/Migrations/DatabaseMigrationRepository.php(169): Illuminate\\Database\\Schema\\MySqlBuilder->hasTable('migrations')
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php(585): Illuminate\\Database\\Migrations\\DatabaseMigrationRepository->repositoryExists()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Database/Console/Migrations/MigrateCommand.php(91): Illuminate\\Database\\Migrations\\Migrator->repositoryExists()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Database/Console/Migrations/MigrateCommand.php(63): Illuminate\\Database\\Console\\Migrations\\MigrateCommand->prepareDatabase()
+#7 [internal function]: Illuminate\\Database\\Console\\Migrations\\MigrateCommand->handle()
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(32): call_user_func_array(Array, Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#10 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#11 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#12 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Console/Command.php(183): Illuminate\\Container\\Container->call(Array)
+#13 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/symfony/console/Command/Command.php(255): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#14 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Console/Command.php(170): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#15 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/symfony/console/Application.php(1021): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#16 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/symfony/console/Application.php(275): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Database\\Console\\Migrations\\MigrateCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#17 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/symfony/console/Application.php(149): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#18 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Console/Application.php(90): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#19 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(133): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#20 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#21 {main}
+"} 
+[2024-03-25 22:04:45] local.ERROR: SQLSTATE[HY000] [1049] Unknown database 'books' (SQL: select * from information_schema.tables where table_schema = books and table_name = migrations and table_type = 'BASE TABLE') {"exception":"[object] (Illuminate\\Database\\QueryException(code: 1049): SQLSTATE[HY000] [1049] Unknown database 'books' (SQL: select * from information_schema.tables where table_schema = books and table_name = migrations and table_type = 'BASE TABLE') at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Database/Connection.php:664, PDOException(code: 1049): SQLSTATE[HY000] [1049] Unknown database 'books' at /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Database/Connection.php(624): Illuminate\\Database\\Connection->runQueryCallback('select * from i...', Array, Object(Closure))
+#1 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Database/Connection.php(333): Illuminate\\Database\\Connection->run('select * from i...', Array, Object(Closure))
+#2 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php(18): Illuminate\\Database\\Connection->select('select * from i...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Database/Migrations/DatabaseMigrationRepository.php(169): Illuminate\\Database\\Schema\\MySqlBuilder->hasTable('migrations')
+#4 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php(585): Illuminate\\Database\\Migrations\\DatabaseMigrationRepository->repositoryExists()
+#5 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Database/Console/Migrations/MigrateCommand.php(91): Illuminate\\Database\\Migrations\\Migrator->repositoryExists()
+#6 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Database/Console/Migrations/MigrateCommand.php(63): Illuminate\\Database\\Console\\Migrations\\MigrateCommand->prepareDatabase()
+#7 [internal function]: Illuminate\\Database\\Console\\Migrations\\MigrateCommand->handle()
+#8 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(32): call_user_func_array(Array, Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#10 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#11 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Container/Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#12 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Console/Command.php(183): Illuminate\\Container\\Container->call(Array)
+#13 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/symfony/console/Command/Command.php(255): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#14 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Console/Command.php(170): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#15 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/symfony/console/Application.php(1021): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#16 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/symfony/console/Application.php(275): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Database\\Console\\Migrations\\MigrateCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#17 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/symfony/console/Application.php(149): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#18 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Console/Application.php(90): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#19 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(133): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#20 /Applications/XAMPP/xamppfiles/htdocs/#21-Laravel-Book-Sharing-Project/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#21 {main}
+"} 
