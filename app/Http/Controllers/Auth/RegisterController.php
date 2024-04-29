@@ -7,6 +7,7 @@ use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Foundation\Auth\RegistersUsers;
+use App\Http\Controllers\PositionController;
 
 class RegisterController extends Controller
 {
@@ -67,6 +68,13 @@ class RegisterController extends Controller
     {
 
         session()->flash('status', 'You are now registered !! Please confirm your email address !!');
+        $position = new PositionController;
+        $var=$position->getCurrentCoordinates();
+        $var = $var->getContent();
+
+        $coordinates = json_decode($var);
+
+        
 
         return  User::create([
             'name' => $data['name'],
@@ -74,6 +82,8 @@ class RegisterController extends Controller
             'username' => $data['username'],
             'phone_no' => $data['phone_no'],
             'status' => 0,
+            'lon' => $coordinates->lon,
+            'lat' => $coordinates->lat,
             'password' => Hash::make($data['password']),
         ]);
     }
