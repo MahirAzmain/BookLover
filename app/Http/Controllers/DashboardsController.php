@@ -267,6 +267,8 @@ class DashboardsController extends Controller
 
            $book = Book::find($book_request->book_id);
            $book->decrement('quantity');
+           $book->total_borrowed = $book->total_borrowed+1;
+           $book->save();
             
             session()->flash('success', 'Book order has been confirmd !!');
             return back();
@@ -284,6 +286,10 @@ class DashboardsController extends Controller
         if (!is_null($book_request)) {
            $book_request->status = 6; //Return by user
            $book_request->save();
+           $book = Book::find($book_request->book_id);
+           
+           
+           $book->save();
             
             session()->flash('success', 'Book order has been returned !!');
             return back();
@@ -304,6 +310,11 @@ class DashboardsController extends Controller
 
            $book = Book::find($book_request->book_id);
            $book->increment('quantity');
+           $book->total_borrowed = $book->total_borrowed-1;
+           $book->save();
+
+
+           $book_request->delete();
             
             session()->flash('success', 'Book order has been returned successfully !!');
             return back();

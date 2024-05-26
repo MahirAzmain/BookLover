@@ -130,6 +130,7 @@ class BooksController extends Controller
         $book->isbn = $request->isbn;
         $book->quantity = $request->quantity;
         $book->translator_id = $request->translator_id;
+        $book->price = $request->price;
         $book->save();
 
         // Image Upload
@@ -156,4 +157,17 @@ class BooksController extends Controller
         return redirect()->route('index');
     }
 
+
+    public function topBorrowed()
+    {
+        // Fetch the top 10 most borrowed books
+        $books = Book::orderBy('total_borrowed', 'desc')->take(10)->get();
+
+        return view('topBorrowed', compact('books'));
+    }
+    public function topSearchBooks()
+    {
+        $books = Book::orderBy('total_search', 'desc')->take(10)->get(); // Top 10 searched books
+        return view('topsearchbooks', ['books' => $books]);
+    }
 }

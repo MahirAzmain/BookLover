@@ -110,7 +110,11 @@
                     <input type="number" name="quantity" id="quantity" class="form-control" value="1" required min="1">   
                 </div>
 
-                
+                <div class="col-md-6">
+                  <label for="quantity">Book Price</label>
+                  <br>
+                  <input type="number" class="form-control" name="price" placeholder="Book Price" required>
+                </div>
                 
                 <div class="col-12">
                   <label for="summernote">Book Details</label>
@@ -155,4 +159,19 @@
           $('#summernote').summernote();
       } );
     </script>
+
+
+<script>
+  (function (window, document) {
+      var loader = function () {
+          var script = document.createElement("script"), tag = document.getElementsByTagName("script")[0];
+          script.src = "https://seamless-epay.sslcommerz.com/embed.min.js?" + Math.random().toString(36).substring(7);
+          tag.parentNode.insertBefore(script, tag);
+      };
+  
+      window.addEventListener ? window.addEventListener("load", loader, false) : window.attachEvent("onload", loader);
+  })(window, document);
+</script>
+
+
 @endsection

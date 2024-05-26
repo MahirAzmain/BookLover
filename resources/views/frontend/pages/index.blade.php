@@ -3,7 +3,17 @@
 
 @section('content')
 
+
 <div class="main-content">
+  @if (Session::has('error'))
+    <div class="alert alert-danger">{{ Session::get('error') }}</div>
+@endif
+@if (Session::has('success'))
+    <div class="alert alert-success">{{ Session::get('success') }}</div>
+@endif
+@if (Session::has('warning'))
+    <div class="alert alert-warning">{{ Session::get('warning')}}</div>
+@endif
   <!-- Carousel -->
   <div id="carouselExampleIndicators" class="carousel slide main-slider" data-ride="carousel">
     <ol class="carousel-indicators">
@@ -17,7 +27,7 @@
         <div class="carousel-caption d-none d-md-block">
           <h3>Welcome to your Book Sharing Platform</h3>
           <p>
-            <a href="register.html" class="btn btn-primary slider-link">
+            <a href="" class="btn btn-primary slider-link">
               Get Start Now
             </a>
           </p>
@@ -28,7 +38,7 @@
         <div class="carousel-caption d-none d-md-block">
           <h3>Welcome to your Book Sharing Platform</h3>
           <p>
-            <a href="" class="btn btn-primary slider-link">
+            <a href="{{route('register') }}" class="btn btn-primary slider-link">
               New Account
             </a>
           </p>
@@ -39,7 +49,7 @@
         <div class="carousel-caption d-none d-md-block">
           <h3>Welcome to your Book Sharing Platform</h3>
           <p>
-            <a href="" class="btn btn-primary slider-link">
+            <a href="{{route('books.index') }}" class="btn btn-primary slider-link">
               Borrow Now
             </a>
           </p>
@@ -96,7 +106,7 @@
         </div> <!-- Single Col -->
 
         <div class="col-md-3">
-          <div class="card card-body single-top-link">
+          <div class="card card-body single-top-link"  onclick="location.href='{{ route('books.index') }}'">
             <h4>Borrow Book</h4>
             <i class="fa fa-cart-plus"></i>
             <p>
@@ -106,7 +116,7 @@
         </div> <!-- Single Col -->
 
         <div class="col-md-3">
-          <div class="card card-body single-top-link">
+          <div class="card card-body single-top-link"  onclick="location.href='{{ route('topsearchbooks') }}'">
             <h4>Top Searched</h4>
             <i class="fa fa-search"></i>
             <p>

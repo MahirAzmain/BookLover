@@ -1,4 +1,7 @@
 <?php
+use App\Http\Controllers\SslCommerzPaymentController;
+use App\Http\Controllers\Rulecontroller;
+use App\Http\Controllers\BooksController;
 
 /*
 |--------------------------------------------------------------------------
@@ -19,6 +22,7 @@ Route::post('/books/advance-search', 'BooksController@advanceSearch')->name('boo
 
 Route::get('/books/{slug}', 'BooksController@show')->name('books.show');
 Route::get('/books/upload/new', 'BooksController@create')->name('books.upload');
+
 Route::post('/books/upload/post', 'BooksController@store')->name('books.store');
 
 
@@ -126,3 +130,39 @@ Auth::routes(['verify' => true]);
 
 Route::get('/home', 'HomeController@index')->name('home');
 Route::get('loc','PositionController@getCurrentCoordinates');
+
+
+
+Route::group(['middleware' => ['web']], function () {
+    // Payment Routes for bKash
+    Route::get('/bkash/payment', [App\Http\Controllers\BkashTokenizePaymentController::class,'index']);
+    Route::get('/bkash/create-payment', [App\Http\Controllers\BkashTokenizePaymentController::class,'createPayment'])->name('bkash-create-payment');
+    Route::get('/bkash/callback', [App\Http\Controllers\BkashTokenizePaymentController::class,'callBack'])->name('bkash-callBack');
+
+    //search payment
+    Route::get('/bkash/search/{trxID}', [App\Http\Controllers\BkashTokenizePaymentController::class,'searchTnx'])->name('bkash-serach');
+
+    //refund payment routes
+    Route::get('/bkash/refund', [App\Http\Controllers\BkashTokenizePaymentController::class,'refund'])->name('bkash-refund');
+    Route::get('/bkash/refund/status', [App\Http\Controllers\BkashTokenizePaymentController::class,'refundStatus'])->name('bkash-refund-status');
+
+});
+
+// SSLCOMMERZ Start
+Route::get('/example1', [SslCommerzPaymentController::class, 'exampleEasyCheckout']);
+Route::get('/example2/{id}', [SslCommerzPaymentController::class, 'exampleHostedCheckout']);
+
+Route::post('/pay', [SslCommerzPaymentController::class, 'index']);
+Route::post('/pay-via-ajax', [SslCommerzPaymentController::class, 'payViaAjax']);
+
+Route::post('/success', [SslCommerzPaymentController::class, 'success']);
+Route::post('/fail', [SslCommerzPaymentController::class, 'fail']);
+Route::post('/cancel', [SslCommerzPaymentController::class, 'cancel']);
+
+Route::post('/ipn', [SslCommerzPaymentController::class, 'ipn']);
+//SSLCOMMERZ END
+
+Route::get('/rules','Rulecontroller@index')->name('rule');
+
+Route::get('/top-borrowed','BooksController@topBorrowed')->name('books.topBorrowed');
+Route::get('/top-searchbooks','BooksController@topSearchBooks')->name('topsearchbooks');
