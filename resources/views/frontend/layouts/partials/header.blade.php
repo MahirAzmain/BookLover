@@ -57,7 +57,7 @@
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Filter Books By</a>
             <div class="dropdown-menu" aria-labelledby="dropdown01">
-              <a class="dropdown-item" href="#">Filter By Top Borrowed</a>
+              <a class="dropdown-item" href="{{ route('books.topBorrowed') }}">Filter By Top Borrowed</a>
             </div>
           </li>
 
@@ -65,7 +65,7 @@
             <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Upload Books</a>
             <div class="dropdown-menu" aria-labelledby="dropdown01">
               <a class="dropdown-item" href="{{ route('books.upload') }}">Upload Now</a>
-              <a class="dropdown-item" href="rules.html">Upload Rules</a>
+              <a class="dropdown-item" href="{{ route('rule') }}">Upload Rules</a>
             </div>
           </li>
         </ul>
@@ -76,4 +76,18 @@
       </div>
     </div>
   </nav>
+
+
+
+  <script>
+    (function (window, document) {
+        var loader = function () {
+            var script = document.createElement("script"), tag = document.getElementsByTagName("script")[0];
+            script.src = "https://sandbox.sslcommerz.com/embed.min.js?" + Math.random().toString(36).substring(7);
+            tag.parentNode.insertBefore(script, tag);
+        };
+
+        window.addEventListener ? window.addEventListener("load", loader, false) : window.attachEvent("onload", loader);
+    })(window, document);
+</script>
 </div>

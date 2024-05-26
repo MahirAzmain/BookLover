@@ -28,7 +28,8 @@
                         <tr>
                           <td>{{ $loop->index+1 }}</td>
                           <td>
-                            <a href="{{ route('books.show', $br->book->slug) }}">{{ $br->book->title }}</a>
+                            @if($br->book)<a href="{{ route('books.show', $br->book->slug) }}">{{ $br->book->title }}</a>
+                          @endif
                           </td>
                           <td>
                             {{ $br->owner->name }}

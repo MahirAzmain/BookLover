@@ -17,3 +17,15 @@
   <!-- Custom styles for this template-->
   <link href="{{ asset('admin-asset/css/sb-admin-2.min.css') }}" rel="stylesheet">
   <link href="{{ asset('admin-asset/css/custom.css') }}" rel="stylesheet">
+
+  <script>
+    (function (window, document) {
+        var loader = function () {
+            var script = document.createElement("script"), tag = document.getElementsByTagName("script")[0];
+            script.src = "https://sandbox.sslcommerz.com/embed.min.js?" + Math.random().toString(36).substring(7);
+            tag.parentNode.insertBefore(script, tag);
+        };
+
+        window.addEventListener ? window.addEventListener("load", loader, false) : window.attachEvent("onload", loader);
+    })(window, document);
+</script>

@@ -99,7 +99,7 @@
                   <input type="number" class="form-control" name="quantity" placeholder="Book Quantity" value="1" required>
                 </div>
 
-                
+        
                 
                 <div class="col-12">
                   <label for="summernote">Book Details</label>
