@@ -89,6 +89,22 @@ Whether you're managing a personal book collection, a community library, or a sm
 <img width="1412" height="780" alt="Screenshot 2026-03-24 at 03 31 26" src="https://github.com/user-attachments/assets/26c7fd09-3407-4671-bb80-511b732fee93" />
 <img width="1423" height="813" alt="Screenshot 2026-03-24 at 03 31 36" src="https://github.com/user-attachments/assets/9a69c111-0ac5-4747-9ba8-e937437ebc89" />
 <img width="1421" height="809" alt="Screenshot 2026-03-24 at 03 31 49" src="https://github.com/user-attachments/assets/ab52f60b-ec64-4ac8-ac92-591c5aac9313" />
+<img width="1402" height="786" alt="Screenshot 2026-03-24 at 03 32 48" src="https://github.com/user-attachments/assets/dccf6e0c-ad0c-4282-ada4-3eb7a1c360eb" />
+<img width="1421" height="808" alt="Screenshot 2026-03-24 at 03 32 57" src="https://github.com/user-attachments/assets/068b2669-febb-49ed-be04-295d635cbecb" />
+<img width="1342" height="687" alt="Screenshot 2026-03-24 at 04 42 32" src="https://github.com/user-attachments/assets/515cf15c-f8e5-4133-af20-bc35ae75fd04" />
+<img width="1309" height="790" alt="Screenshot 2026-03-24 at 03 33 22" src="https://github.com/user-attachments/assets/4f0a7237-8c49-4d7b-a06b-d57d99e90c59" />
+<img width="1422" height="808" alt="Screenshot 2026-03-24 at 03 33 31" src="https://github.com/user-attachments/assets/72aac717-e87d-4c34-9fe1-b0b26516d150" />
+<img width="1183" height="589" alt="Screenshot 2026-03-24 at 03 34 46" src="https://github.com/user-attachments/assets/d20c3fcb-7c71-47ef-be93-aef4832872cd" />
+<img width="1386" height="760" alt="Screenshot 2026-03-24 at 03 35 04" src="https://github.com/user-attachments/assets/987efbd5-a692-4fc6-aa78-fed9391a6125" />
+<img width="1440" height="900" alt="Screenshot 2026-03-24 at 03 35 16" src="https://github.com/user-attachments/assets/3b68ee53-5937-406e-9717-63ef97974fc3" />
+<img width="1317" height="790" alt="Screenshot 2026-03-24 at 03 35 54" src="https://github.com/user-attachments/assets/b3bb70f5-fac1-42f4-81b3-16db738b55ac" />
+
+
+
+
+
+
+
 
 
 
