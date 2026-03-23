@@ -85,11 +85,10 @@ Whether you're managing a personal book collection, a community library, or a sm
 <img width="1381" height="799" alt="Screenshot 2026-03-24 at 03 27 07" src="https://github.com/user-attachments/assets/1f1f425d-f50a-4268-af4e-2174a88f8968" />
 <img width="1386" height="805" alt="Screenshot 2026-03-24 at 03 27 32" src="https://github.com/user-attachments/assets/eef06f3c-3868-4183-9260-c60bb4ab0316" />
 <img width="1425" height="792" alt="Screenshot 2026-03-24 at 03 30 14" src="https://github.com/user-attachments/assets/4ba69d7c-b837-48b3-a2f3-e5490b11ecaf" />
-![Screenshot 2026-03-24 at 03 31 04](https://github.com/user-attachments/assets/7d847b5d-cc4d-4ff2-9695-1b8ba47ef5e5)
+<img width="1413" height="781" alt="Screenshot 2026-03-24 at 03 31 04" src="https://github.com/user-attachments/assets/26c7fd09-3407-4671-bb80-511b732fee93](https://github.com/user-attachments/assets/7d847b5d-cc4d-4ff2-9695-1b8ba47ef5e5" />
 <img width="1412" height="780" alt="Screenshot 2026-03-24 at 03 31 26" src="https://github.com/user-attachments/assets/26c7fd09-3407-4671-bb80-511b732fee93" />
 <img width="1423" height="813" alt="Screenshot 2026-03-24 at 03 31 36" src="https://github.com/user-attachments/assets/9a69c111-0ac5-4747-9ba8-e937437ebc89" />
 <img width="1421" height="809" alt="Screenshot 2026-03-24 at 03 31 49" src="https://github.com/user-attachments/assets/ab52f60b-ec64-4ac8-ac92-591c5aac9313" />
-
 
 
 
